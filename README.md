@@ -5,9 +5,9 @@ End-to-end case study of a production dating platform built from scratch for the
 <img width="274" height="592" alt="image" src="https://github.com/user-attachments/assets/483b7e0e-2287-4ff1-8e26-93bc2f20976e" />
 <img width="274" height="592" alt="image" src="https://github.com/user-attachments/assets/f6319fb0-65f3-46dc-b86c-bcf132e5bac2" />
 <img width="274" height="592" alt="image" src="https://github.com/user-attachments/assets/d9846fe5-10e7-40b3-8843-8fa648015402" />
-<img width="137" height="296" alt="image" src="https://github.com/user-attachments/assets/3e40d5e8-267d-4e04-a0e4-edd9ac3cb7b0" />
-<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/83fb0cdd-616e-44db-adb5-9c1d08aef49d" />
-<img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/a231a96b-b6c5-43be-83c3-7b3137f1109b" />
+<img width="274" height="592" alt="image" src="https://github.com/user-attachments/assets/3e40d5e8-267d-4e04-a0e4-edd9ac3cb7b0" />
+<img width="274" height="592" alt="image" src="https://github.com/user-attachments/assets/83fb0cdd-616e-44db-adb5-9c1d08aef49d" />
+<img width="274" height="592" alt="image" src="https://github.com/user-attachments/assets/a231a96b-b6c5-43be-83c3-7b3137f1109b" />
 
 
 
